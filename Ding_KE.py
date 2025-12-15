@@ -319,7 +319,7 @@ def performance_test(iterations=50):
 
 if __name__ == "__main__":
 
-    print("\n===== PQC-PAKE NIST-STYLE PERFORMANCE REPORT =====\n")
+    print("\n===== Ding KE NIST-STYLE PERFORMANCE REPORT =====\n")
 
     m1, m2, total = get_message_sizes()
     print(f"Message size (Alice to Bob) : {m1} bytes")
